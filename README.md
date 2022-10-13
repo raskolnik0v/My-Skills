@@ -7,7 +7,7 @@
 *****   simbillicem@yandex.com
 
 *****   linkedin.com/in/ozalgoktas
-
+https://camo.githubusercontent.com/88ab3c0f78016111d88ef82030375fb740d82dd0c16c1b078c441e22479009b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465
 
 - 👋 Hi, I’m @raskolnik0v
 - 👀 I’m interested in Junior Software Developer | Python | Linux | Git | GitHub | SQL |
