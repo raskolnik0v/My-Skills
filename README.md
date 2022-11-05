@@ -17,8 +17,8 @@
         
 
 - 👋 Hi, I’m @raskolnik0v
-- 👀 I’m interested in Junior Software Developer **Frnt End Developer| Python | Linux | Git | GitHub | SQL |Html CSS|
-- 🌱 I’m currently learning Data Science || AWS-DevOps
+- 👀 I’m interested in Junior Software Developer | Python | Linux | Git | GitHub | SQL |Html CSS|
+- 🌱 I’m currently learning Front End AND Back End Developer|| AWS-DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/ozalgoktas/
 
