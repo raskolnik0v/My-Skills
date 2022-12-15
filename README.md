@@ -69,7 +69,7 @@ I have done various projects with the programming language python. Now I continu
 
 <a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raskolnik0v&stroke=ef4444&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/raskolnik0v"><img src="https://activity-graph.herokuapp.com/graph?username=raskolnik0v&bg_color=000000&color=ef4444&line=ef4444&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/raskolnik0v"><img src="https://activity-graph.herokuapp.com/graph?username=raskolnik0v&bg_color=000000&color=ef4444&line=ef4444&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a href="https://github.com/raskolnik0v" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnik0v&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
