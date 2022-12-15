@@ -74,8 +74,6 @@ Now I continue my studies on Front-End and Back-End.
 
 <a href="https://github.com/raskolnik0v" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnik0v&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div> 
 
 ![snake svg](https://github.com/raskolnik0v/raskolnik0v/blob/output/github-contribution-grid-snake.svg)
