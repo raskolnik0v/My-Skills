@@ -32,12 +32,13 @@ You can click the Preview link to take a look at your changes.
 
 FRONT-END DEVELOPER // PYTHON DEVELOPER
 ---------------------------------------
-
-I have done various projects with the programming language python. Now I continue my studies on Front-End and Back-End.
+* 🧠
+I have done various projects with the programming language python. 
+Now I continue my studies on Front-End and Back-End.
 
 * 🌍  I'm based in İSTANBUL
 * ✉️  You can contact me at [simbillicem@yandex.com](mailto:simbillicem@yandex.com )
-* 🧠  I'm learning HTML-CSS-JAVASCRIPT-FLEX-BOOTSTRAP 5-JQUERY-JSON-TYPESCRİPT-REACT JS-REDUX-ANGULAR-RXJS-
+  
 
 ### Skills
 
