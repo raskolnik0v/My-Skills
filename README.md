@@ -66,13 +66,13 @@ I have done various projects with the programming language python. Now I continu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-stats.vercel.app/api?username=raskolnik0v&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="raskolnik0v's GitHub stats" /></a>
+<a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raskolnik0v&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="raskolnik0v's GitHub stats" /></a>
 
 <a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raskolnik0v&stroke=facc15&background=000000&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=raskolnik0v&bg_color=000000&color=facc15&line=ffffff&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
           
-<a href="https://github.com/raskolnik0v" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnik0v&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/raskolnik0v" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raskolnik0v&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
           
 ![snake svg](https://github.com/raskolnik0v/raskolnik0v/blob/output/github-contribution-grid-snake.svg)
 
