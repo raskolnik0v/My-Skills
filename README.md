@@ -66,7 +66,7 @@ I have done various projects with the programming language python. Now I continu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-stats.vercel.app/api username=raskolnik0v&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="raskolnik0v's GitHub stats" /></a>
+<a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-stats.vercel.app/api ?username=raskolnik0v&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="raskolnik0v's GitHub stats" /></a>
 
 <a href="http://www.github.com/raskolnik0v"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raskolnik0v&stroke=facc15&background=000000&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
