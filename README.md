@@ -74,5 +74,6 @@ I have done various projects with the programming language python. Now I continu
 
 <a href="https://github.com/raskolnik0v" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnik0v&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
           
-![snake gif]
+          
+          
 https://github.com/raskolnik0v/raskolnik0v/blob/41497c9bba7b7742377725de940ae13f3d2d49eb/github-contribution-grid-snake.gif
