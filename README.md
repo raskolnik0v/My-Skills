@@ -76,4 +76,4 @@ I have done various projects with the programming language python. Now I continu
           
           
           
-https://github.com/raskolnik0v/raskolnik0v/blob/41497c9bba7b7742377725de940ae13f3d2d49eb/github-contribution-grid-snake.gif
+[https://github.com/raskolnik0v/raskolnik0v/blob/41497c9bba7b7742377725de940ae13f3d2d49eb/github-contribution-grid-snake.gif](https://github.com/raskolnik0v/raskolnik0v/blob/41497c9bba7b7742377725de940ae13f3d2d49eb/github-contribution-grid-snake.svg)
